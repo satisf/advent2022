@@ -1,0 +1,33 @@
+{
+	"name": "advent1",
+	"version": "1.0.0",
+	"description": "advent of code day 1",
+	"main": "index.js",
+	"scripts": {
+		"prestart": "npm run install",
+		"install": "tsc",
+		"1": "npm i && node ./1/index.js",
+		"2": "npm i && node ./2/index.js",
+		"3": "npm i && node ./3/index.js",
+		"4": "npm i && node ./4/index.js",
+		"5": "npm i && node ./5/index.js",
+		"6": "npm i && node ./6/index.js",
+		"7": "npm i && node ./7/index.js",
+		"8": "npm i && node ./8/index.js",
+		"9": "npm i && node ./9/index.js",
+		"10": "npm i && node ./10/index.js",
+		"11": "npm i && node ./11/index.js",
+		"12": "npm i && node ./12/index.js",
+		"13": "npm i && node ./13/index.js",
+		"14": "npm i && node ./14/index.js",
+		"15": "npm i && node ./15/index.js",
+		"2015-1": "npm i && node ./2015-1/index.js",
+		"2015-2": "npm i && node ./2015-2/index.js"
+	},
+	"author": "Philipp Moeller",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^18.11.10",
+		"typescript": "^4.9.3"
+	}
+}
